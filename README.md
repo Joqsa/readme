@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Welcome+To+My+Profile!;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Welcome+To+My+Profile!;Lua+Pro+Developer)](https://git.io/typing-svg)
 
 
 
